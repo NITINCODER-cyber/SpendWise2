@@ -8,6 +8,7 @@ The project aims to make personal expense management easier while demonstrating 
 ## ✨ Features
 
 - Add new expenses.
+- GUI based
 - View recorded expenses.
 - Delete expenses.
 - Store expense records in a MySQL database.
