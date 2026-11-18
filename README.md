@@ -1,4 +1,4 @@
-# SpendWise2
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ec14f0c5-9b02-4796-843d-56e011148237" /># SpendWise2
 # School Project 
 # 💰 SpendWise – Personal Expense Tracker
 
@@ -67,6 +67,10 @@ python main.py
 ## 🎯 Project Objective
 
 The main objective of SpendWise is to develop a beginner-friendly expense management application while learning Python GUI development, SQL database management, and Python-MySQL connectivity.
+
+## Screen Shots 
+<img width="1920" height="1020" alt="Screenshot 2026-11-18 214500" src="https://github.com/user-attachments/assets/c0dfcec5-e6bb-46a0-8ead-e092a0a0f880" />
+
 
 
 ## 👨‍💻 Developer
