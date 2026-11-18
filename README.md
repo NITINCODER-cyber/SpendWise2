@@ -67,7 +67,8 @@ python main.py
 
 The main objective of SpendWise is to develop a beginner-friendly expense management application while learning Python GUI development, SQL database management, and Python-MySQL connectivity.
 
-## Screen Shots 
+## 📷 Screen Shots 
+
 # DASHBOARD
 <img width="1920" height="1020" alt="Screenshot 2026-11-18 214409" src="https://github.com/user-attachments/assets/5eb9ee19-0160-4033-a2b0-90481f5bd03c" />
 # LIST OF ALL EXPENSES
