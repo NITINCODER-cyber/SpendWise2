@@ -2,6 +2,6 @@
 # MySQL Database Configuration
 
 host = "localhost"
-user = "spendwise_user"
-password = "nitin@124"
+user = "YourUsername"
+password = "YourPassword"
 database = "spendwise"
